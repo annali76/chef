@@ -1,8 +1,5 @@
-.error {
-  color: #f5222d;
-}
-
 .error :global {
+  color: #f5222d;
   animation: fadeIn 0.2s ease-in-out;
 }
 

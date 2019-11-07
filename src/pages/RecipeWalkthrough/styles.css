@@ -1,1 +1,24 @@
+.page {
+  padding: 20px;
+}
 
+.following {
+  font-size: 18px;
+  opacity: 0.5;
+}
+
+.step {
+  height: 100px;
+  margin-top: 40px;
+}
+
+.nextStep {
+  opacity: 0.5;
+}
+
+.buttons {
+  margin-top: 100px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}

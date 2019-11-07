@@ -7,7 +7,7 @@
     "start": "parcel ./public/index.html -p 3000",
     "restart": "npm run clean && npm run start",
     "clean": "rm -rf ./dist ./.cache",
-    "build-prod": "parcel build src/index.html",
+    "build": "parcel build ./public/index.html",
     "test": "node_modules/.bin/jest  --watchAll",
     "mc": "./scripts/createComponent.js"
   },

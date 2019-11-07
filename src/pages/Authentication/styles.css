@@ -8,11 +8,8 @@
   animation: fadeIn 200ms ease-in-out;
 }
 
-.card {
-  margin: 10px;
-}
-
 .card :global {
+  margin: 10px;
   animation: fadeIn 200ms ease-in-out;
 }
 
